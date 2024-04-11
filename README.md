@@ -1,13 +1,13 @@
-## Wholesale Client Data: Exploration and Transformation
-# Overview
+# Wholesale Client Data: Exploration and Transformation
+## Overview
 This project focuses on exploring, transforming, and analyzing a dataset to uncover insights about client transactions, specifically:
-    - Most popular item category 
-    - Most purchase subcategory within the most popular category
-    - Top 5 clients spending and profit 
-    - Calculating the shipping price, total revenue, cost and profit. 
+        - Most popular item category 
+        - Most purchase subcategory within the most popular category
+        - Top 5 clients spending and profit 
+        - Calculating the shipping price, total revenue, cost and profit. 
 
 
-# Requirements
+## Requirements
 The project is divided into four main parts, each with specific objectives:
 - Part 1: Exploring the Data
     - Purpose: Understand the basic structure of the dataset and identify key categories and clients.
@@ -20,10 +20,10 @@ The project is divided into four main parts, each with specific objectives:
     - Purpose: Summarize the data for the top 5 clients and analyze the findings.
     - Tasks include calculating total revenue from the top 5 clients, creating a summary DataFrame, formatting the data for presentation in Millions, and writing a summary of findings.
 
-# Data Transformation Details
+## Data Transformation Details
 - Shipping price calculation based on weight.
 - Total price calculation including sales tax.
 - Creation of profit and cost columns.
 
-# Conclusion
+## Conclusion
 This datafram represents a brief summary of insights regarding client transactions, revenue, and profit as well as an analysis of the top 5 clients' contribution to the overall financial metrics. A summary of findings including my personal insights is found at the bottom of the document. 
