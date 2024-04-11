@@ -1,11 +1,6 @@
 # Wholesale Client Data: Exploration and Transformation
 ## Overview
-This project focuses on exploring, transforming, and analyzing a dataset to uncover insights about client transactions, specifically:
-        - Most popular item category 
-        - Most purchase subcategory within the most popular category
-        - Top 5 clients spending and profit 
-        - Calculating the shipping price, total revenue, cost and profit. 
-
+This project focuses on exploring, transforming, and analyzing a dataset to uncover insights about client transactions from the wholesale client dataset. 
 
 ## Requirements
 The project is divided into four main parts, each with specific objectives:
